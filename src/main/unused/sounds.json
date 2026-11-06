@@ -1,0 +1,20 @@
+{
+  "ptichka.launch": {
+    "sounds": [
+      "ether_aquatic:ptichka"
+    ],
+    "subtitle": "subtitles.ptichka.launch"
+  },
+  "ptichka.slingshot": {
+    "sounds": [
+      "ether_aquatic:slingshot"
+    ],
+    "subtitle": "subtitles.ptichka.slingshot"
+  },
+  "sdelay_avtora_mctaksa_8700_diss_klickaud": {
+    "sounds": [
+      "ether_aquatic:sdelay_avtora_mctaksa_8700_diss_klickaud"
+    ],
+    "subtitle": "skuvloh"
+  }
+}

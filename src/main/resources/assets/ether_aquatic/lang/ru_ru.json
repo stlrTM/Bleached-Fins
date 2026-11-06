@@ -1,0 +1,20 @@
+{
+  "block.ether_aquatic.sturgeon_caviar": "Осетриная икра",
+  "entity.ether_aquatic.sturgeon": "Осётр",
+  "entity.ether_aquatic.swordfish": "Рыба-меч",
+  "item.ether_aquatic.baby_sturgeon_bucket": "Маленький осётр в ведре",
+  "item.ether_aquatic.cooked_sturgeon": "Жареный осётр",
+  "item.ether_aquatic.sturgeon_bucket": "Осётр в ведре",
+  "item.ether_aquatic.sturgeon_caviar_sandwich": "Бутерброд с осетриной икрой",
+  "item.ether_aquatic.sturgeon_spawn_egg": "Яйцо призыва осётра",
+  "item.ether_aquatic.sturgeon_item": "Осётр",
+  "item.ether_aquatic.swordfish_spawn_egg": "Яйцо призыва рыбы-меча",
+  "item.ether_aquatic.swordfish_item": "Рыба-меч",
+  "block.ether_aquatic.piranha_trap": "Кусачий капкан",
+  "entity.ether_aquatic.piranha": "Пиранья",
+  "entity.ether_aquatic.piranha_arrow": "Кусачая стрела",
+  "item.ether_aquatic.piranha_arrow": "Кусачая стрела",
+  "item.ether_aquatic.piranha_bucket": "Пиранья в ведре",
+  "item.ether_aquatic.piranha_spawn_egg": "Яйцо призыва пираньи",
+  "item.ether_aquatic.piranha_item": "Пиранья"
+}

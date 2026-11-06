@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,state=false": {
+      "model": "ether_aquatic:block/piranha_trap",
+      "y": 270
+    },
+    "facing=north,state=false": {
+      "model": "ether_aquatic:block/piranha_trap",
+      "y": 180
+    },
+    "facing=south,state=false": {
+      "model": "ether_aquatic:block/piranha_trap"
+    },
+    "facing=west,state=false": {
+      "model": "ether_aquatic:block/piranha_trap",
+      "y": 90
+    },
+    "facing=east,state=true": {
+      "model": "ether_aquatic:block/piranha_trap1",
+      "y": 270
+    },
+    "facing=north,state=true": {
+      "model": "ether_aquatic:block/piranha_trap1",
+      "y": 180
+    },
+    "facing=south,state=true": {
+      "model": "ether_aquatic:block/piranha_trap1"
+    },
+    "facing=west,state=true": {
+      "model": "ether_aquatic:block/piranha_trap1",
+      "y": 90
+    }
+  }
+}

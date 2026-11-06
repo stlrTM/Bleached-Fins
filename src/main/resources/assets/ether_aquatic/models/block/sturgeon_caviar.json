@@ -1,0 +1,17 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "ether_aquatic:block/sturgeon_caviar",
+        "sturgeon_caviar": "ether_aquatic:block/sturgeon_caviar"
+    },
+    "render_type": "minecraft:translucent",
+    "elements": [
+        {   "from": [ 0, 0, 0.1 ],
+            "to": [ 16, 16, 0.1 ],
+            "faces": {
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#sturgeon_caviar" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#sturgeon_caviar" }
+            }
+        }
+    ]
+}
